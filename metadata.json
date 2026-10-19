@@ -1,0 +1,7 @@
+{
+  "name": "등굣길 날씨 (School Weather)",
+  "description": "매일 학교에 가는 학생들을 위한 맞춤 등하굣길 날씨, 옷차림 추천, 미세먼지 및 우산 알리미 앱",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
